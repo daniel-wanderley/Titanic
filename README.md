@@ -10,13 +10,13 @@ Categorizando por Faixa Etária para facilitar o entendimento dos dados
 Mapa de Calor para identificar as correlações entre as variáveis
 Modelagem dos dados para utilização dos algorítimos de Machine Learning
 Utilização dos Algorítimos:
--Regressão Logística
--Árvore de Decisão
--Random Forest
--Extra Tree
--Cat Boost
--XGBoost
--KNN
+- Regressão Logística
+- Árvore de Decisão
+- Random Forest
+- Extra Tree
+- Cat Boost
+- XGBoost
+- KNN
 Após os testes serem realizados com esses algorítimos, foi possível identificar que o modelo com melhor resultado foi o Random Forest
 Então foi realizado um teste de otimização de hiperpárametros para conseguir resultados ainda melhores
 Finalizando o projeto o salvando em .pkl e testando para verificar se foi salvo corretamente
